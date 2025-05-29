@@ -2,12 +2,14 @@
 Explore patterns and relationships in the classic Iris flower dataset using Python data visualization libraries.
 
 
-🚀 Project Overview
+🚀 Project Overview:
 This project performs Exploratory Data Analysis (EDA) on the Iris dataset using Seaborn and Matplotlib. Key visualizations include distribution plots, pairwise relationships, boxplots, and a correlation heatmap to understand data trends and relationships.
 
 
-📊 Dataset
+📊 Dataset:
+
 Source: [sample_iris_dataset.pdf](https://github.com/user-attachments/files/20498952/sample_iris_dataset.pdf)
+
 
 Features:
 
