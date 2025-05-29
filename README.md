@@ -2,8 +2,11 @@
 Explore patterns and relationships in the classic Iris flower dataset using Python data visualization libraries.
 
 🚀 Project Overview:
+
 This project performs Exploratory Data Analysis (EDA) on the Iris dataset using Seaborn and Matplotlib. Key visualizations include distribution plots, pairwise relationships, boxplots, and a correlation heatmap to understand data trends and relationships.
+
 📊 Dataset:
+
 Source: [sample_iris_dataset.pdf](https://github.com/user-attachments/files/20498952/sample_iris_dataset.pdf)
 
 
@@ -26,6 +29,7 @@ species (target class: setosa, versicolor, virginica)
 
 
 🛠️ Technologies Used:
+
 Python
 
 
@@ -49,6 +53,7 @@ EDA_Iris_Dataset/
 ├── README.md                                            # Project documentation
 
 ⚙️ How to Run the Project:
+
 Clone the repository:
 git clone https://github.com/abhinavh-77/EDA_Iris_Dataset.gitcd EDA_Iris_Dataset
                   https://github.com/abhinavh-77/abhinavh-77
@@ -59,6 +64,7 @@ Run all cells step-by-step to visualize the EDA process.
 
 
 📈 Visualizations:
+
 Count plot for species distribution
 
 
@@ -75,6 +81,7 @@ Correlation heatmap for feature interdependence
 
 
 🔍 Key Learnings:
+
 Using Seaborn and Matplotlib for visual data exploration
 
 
@@ -88,6 +95,7 @@ Insights from correlation analysis
 
 
 📌 To-Do (Improvements):
+
 Add feature engineering or statistical summaries
 
 
@@ -98,7 +106,9 @@ Create interactive dashboards with Plotly or Streamlit
 
 
 📜 License:
+
 This project is open-source and available under the MIT License.
 
 🙋‍♂️ Author:
+
 Haridasula Abhinav
